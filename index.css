@@ -1,5 +1,5 @@
 body{
-    font-family: sans-serif;
+    font-family: sans-serif, Arial;
     background: bisque;
     padding: 20px;
 }
@@ -8,5 +8,22 @@ table{
     width: 80%;
     border-collapse: separate;
     border-spacing: 20px;
-    
+    margin: auto;
+}
+
+th{
+    background: grey;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 8px;
+}
+td{
+    background: yellow;
+    color: white;
+    padding: 12px;
+    text-align: center;
+    border-radius: 6px;
+
 }
