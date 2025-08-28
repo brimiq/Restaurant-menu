@@ -1,0 +1,12 @@
+body{
+    font-family: sans-serif;
+    background: bisque;
+    padding: 20px;
+}
+
+table{
+    width: 80%;
+    border-collapse: separate;
+    border-spacing: 20px;
+    
+}
