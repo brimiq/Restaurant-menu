@@ -31,3 +31,9 @@ td{
 tr:hover td{
    background:#5e5efb ;
 }
+
+.icon{
+width: 16px;
+height: 16px;
+margin-left: 5px;
+}
